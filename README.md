@@ -2,6 +2,8 @@
 
 Gain comprehensive insights from Spotify data visualized in Tableau. Explore track inventory, streaming metrics, and sonic landscape overview. Delve into KPIs, cross-platform rankings, and audio analytics for a thorough understanding of Spotify's musical ecosystem.
 
+---
+
 ## Project Overview
 
 This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
@@ -39,7 +41,7 @@ By leveraging Tableau's visualization capabilities, this project offers a compre
 
 ## Connect with Me
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/virajbhutada/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/virajbhutada/) [![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) 
 
 
 ---
