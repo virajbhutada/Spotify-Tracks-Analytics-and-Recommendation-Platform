@@ -50,5 +50,11 @@ By leveraging Tableau's visualization capabilities, this project offers a compre
 
 [![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau.git)
 [![Push](https://img.shields.io/badge/Push-Code-blue.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau)
-[![Pull](https://img.shields.io/badge/Pull-Request-yellow.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/pulls)
+[![Pull](https://img.shields.io/badge/Pull-Request-lavender.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/pulls)
 [![Issues](https://img.shields.io/badge/Issues-Report-red.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/issues)
+
+---
+
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
