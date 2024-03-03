@@ -1,12 +1,30 @@
-# Spotify Data Insights with Tableau
+# Spotify Data Insights with Tableau 🎵📊
 
 Gain comprehensive insights from Spotify data visualized in Tableau. Explore track inventory, streaming metrics, and sonic landscape overview. Delve into KPIs, cross-platform rankings, and audio analytics for a thorough understanding of Spotify's musical ecosystem.
 
 ---
 
-## Project Overview
+
+### Project Overview
 
 This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
+
+**Project Details**
+- Utilized the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023 to meticulously analyze and visualize Spotify's musical landscape, providing a deep dive into the most streamed songs on the platform in 2023. 📈🔍
+
+- Employed a combination of descriptive statistics and exploratory data analysis techniques to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 📊🔬
+
+- Leveraged Tableau as the primary data visualization tool to create interactive dashboards that offer comprehensive insights into various aspects of Spotify's musical ecosystem, including track popularity, streaming behavior, and audio attributes. 🖥️🔍
+
+- Explored diverse dimensions of the dataset, such as artist presence, track inventory, stream metrics, and sonic landscape, to provide a holistic understanding of Spotify's music trends and user preferences. 🎵🔍
+
+- Designed visually engaging dashboards with intuitive navigation features to present findings in a clear and accessible manner, enabling stakeholders to easily interpret complex data and make informed decisions. 📊💡
+
+- Demonstrated proficiency in data analysis and visualization by creating compelling visualizations that not only showcase key metrics but also tell a coherent story about the evolving dynamics of the music industry. 📈🔍
+
+- Provided actionable insights into track popularity dynamics, streaming trends across different time periods and geographical regions, and the impact of audio attributes such as tempo and acoustic profiles on user engagement. 💡🌐
+
+- Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 🎵📊
 
 ---
 
@@ -18,8 +36,6 @@ This project aims to provide detailed insights into Spotify data through interac
 | **Stream Metrics** | ![Stream Metrics](https://github.com/virajbhutada/Tableau-DataViz-Portfolio/assets/143819712/e7d65f8d-3c1b-46b9-ab2b-bb76d60e1c8d) | The Stream Metrics dashboard provides in-depth analysis of streaming metrics, including total streams, average BPM analysis, peak streamed tracks, leading streamed artists, and playlist curated track stream analysis. |
 
 ---
-
-## Project Details
 
 ### Data Source
 
@@ -41,14 +57,15 @@ By leveraging Tableau's visualization capabilities, this project offers a compre
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/virajbhutada/) [![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/virajbhutada/)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-brightgreen?logo=spotify)](https://open.spotify.com/user/virajbhutada)
 
 ---
 
 ## Repository Navigation
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau.git)
+[![Clone](https://img.shields.io/badge/Clone-Repository-brown.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau.git)
 [![Push](https://img.shields.io/badge/Push-Code-blue.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau)
 [![Pull](https://img.shields.io/badge/Pull-Request-lavender.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/pulls)
 [![Issues](https://img.shields.io/badge/Issues-Report-red.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/issues)
