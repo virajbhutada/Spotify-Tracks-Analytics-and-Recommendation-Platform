@@ -5,11 +5,13 @@ Gain comprehensive insights from Spotify data visualized in Tableau. Explore tra
 ---
 
 
-### Project Overview
+### Overview 🌟
 
 This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
 
-**Project Details**
+---
+
+### Project Details 📋
 - Utilized the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023 to meticulously analyze and visualize Spotify's musical landscape, providing a deep dive into the most streamed songs on the platform in 2023. 📈🔍
 
 - Employed a combination of descriptive statistics and exploratory data analysis techniques to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 📊🔬
