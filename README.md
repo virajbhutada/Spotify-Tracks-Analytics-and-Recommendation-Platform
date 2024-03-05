@@ -26,7 +26,7 @@ This project aims to provide detailed insights into Spotify data through interac
 
 - Provided actionable insights into track popularity dynamics, streaming trends across different time periods and geographical regions, and the impact of audio attributes such as tempo and acoustic profiles on user engagement. 💡🌐
 
-- Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 🎵📊
+ Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 🎵📊
 
 ---
 
