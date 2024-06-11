@@ -10,7 +10,7 @@ Gain comprehensive insights from Spotify data visualized in Tableau and analyzed
 
 - [Overview](#overview)
 - [Project Details](#project-details)
-- [Data Vizzes](#data-vizzes)
+- [Tableau Data Vizzes](#tableau-data-vizzes)
 - [SQL Analysis](#sql-analysis)
   - [Data Exploration](#data-exploration)
   - [Schema Diagram](#schema-diagram)
@@ -29,27 +29,27 @@ This project provides detailed insights into Spotify data through interactive vi
 
 ## Project Details 
 
-- Utilized the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023 to meticulously analyze and visualize Spotify's musical landscape, providing a deep dive into the most streamed songs on the platform in 2023. 📈🔍
+- Utilized the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023 to meticulously analyze and visualize Spotify's musical landscape, providing a deep dive into the most streamed songs on the platform in 2023.
+  
+- Employed a combination of descriptive statistics, exploratory data analysis techniques, and SQL queries to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 
 
-- Employed a combination of descriptive statistics, exploratory data analysis techniques, and SQL queries to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 📊🔬
+- Leveraged Tableau as the primary data visualization tool to create interactive dashboards that offer comprehensive insights into various aspects of Spotify's musical ecosystem, including track popularity, streaming behavior, and audio attributes. 
 
-- Leveraged Tableau as the primary data visualization tool to create interactive dashboards that offer comprehensive insights into various aspects of Spotify's musical ecosystem, including track popularity, streaming behavior, and audio attributes. 🖥️🔍
+- Explored diverse dimensions of the dataset, such as artist presence, track inventory, stream metrics, and sonic landscape, to provide a holistic understanding of Spotify's music trends and user preferences. 
 
-- Explored diverse dimensions of the dataset, such as artist presence, track inventory, stream metrics, and sonic landscape, to provide a holistic understanding of Spotify's music trends and user preferences. 🎵🔍
+- Designed visually engaging dashboards with intuitive navigation features to present findings in a clear and accessible manner, enabling stakeholders to easily interpret complex data and make informed decisions. 
 
-- Designed visually engaging dashboards with intuitive navigation features to present findings in a clear and accessible manner, enabling stakeholders to easily interpret complex data and make informed decisions. 📊💡
+- Demonstrated proficiency in data analysis and visualization by creating compelling visualizations that not only showcase key metrics but also tell a coherent story about the evolving dynamics of the music industry. 
 
-- Demonstrated proficiency in data analysis and visualization by creating compelling visualizations that not only showcase key metrics but also tell a coherent story about the evolving dynamics of the music industry. 📈🔍
+- Provided actionable insights into track popularity dynamics, streaming trends across different time periods and geographical regions, and the impact of audio attributes such as tempo and acoustic profiles on user engagement. 
 
-- Provided actionable insights into track popularity dynamics, streaming trends across different time periods and geographical regions, and the impact of audio attributes such as tempo and acoustic profiles on user engagement. 💡🌐
-
-- Integrated SQL queries to perform additional analysis, including data aggregation, filtering, and joining, augmenting the insights gained from Tableau visualizations with deeper data exploration and manipulation capabilities. 📊🔍
-
-- Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 🎵📊
+- Integrated SQL queries to perform additional analysis, including data aggregation, filtering, and joining, augmenting the insights gained from Tableau visualizations with deeper data exploration and manipulation capabilities. 
+  
+- Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 
 
 ---
 
-## Data Vizzes
+## Tableau Data Vizzes
 
 | **Analytical Dashboard** | **Preview** |**Description** |
 |--------------------------|-------------|----------------|
