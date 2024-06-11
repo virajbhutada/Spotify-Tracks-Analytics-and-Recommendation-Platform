@@ -49,7 +49,7 @@ This project provides detailed insights into Spotify data through interactive vi
 
 ---
 
-# Data Vizzes
+## Data Vizzes
 
 | **Analytical Dashboard** | **Preview** |**Description** |
 |--------------------------|-------------|----------------|
