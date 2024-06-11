@@ -1,20 +1,37 @@
-# Spotify Data Insights with Tableau 🎵📊
+![Screenshot 2024-06-11 173647](https://github.com/virajbhutada/Google-Stock-Price-Forecasting-LSTM/assets/143819712/a940742a-35b1-4b27-9687-92932abd6578)
 
-Gain comprehensive insights from Spotify data visualized in Tableau. Explore track inventory, streaming metrics, and sonic landscape overview. Delve into KPIs, cross-platform rankings, and audio analytics for a thorough understanding of Spotify's musical ecosystem.
+# Spotify Data Analysis with Tableau and SQL 🎵📊
 
----
-
-
-### Overview 🌟
-
-This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
+Gain comprehensive insights from Spotify data visualized in Tableau and analyzed with SQL queries. Explore track inventory, streaming metrics, and sonic landscape overview. Delve into KPIs, cross-platform rankings, and audio analytics for a thorough understanding of Spotify's musical ecosystem.
 
 ---
 
-### Project Details 📋
+## Table of Contents
+
+- [Overview](#overview)
+- [Project Details](#project-details)
+- [Data Vizzes](#data-vizzes)
+- [SQL Analysis](#sql-analysis)
+  - [Data Exploration](#data-exploration)
+  - [Schema Diagram](#schema-diagram)
+- [Data Source](#data-source)
+- [Analytical Approach](#analytical-approach)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+  
+---
+
+## Overview 
+
+This project provides detailed insights into Spotify data through interactive visualizations created using Tableau and analytical queries executed with SQL. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
+
+---
+
+## Project Details 
+
 - Utilized the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023 to meticulously analyze and visualize Spotify's musical landscape, providing a deep dive into the most streamed songs on the platform in 2023. 📈🔍
 
-- Employed a combination of descriptive statistics and exploratory data analysis techniques to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 📊🔬
+- Employed a combination of descriptive statistics, exploratory data analysis techniques, and SQL queries to extract meaningful insights from the dataset, uncovering nuanced patterns and trends within Spotify's vast catalog of music. 📊🔬
 
 - Leveraged Tableau as the primary data visualization tool to create interactive dashboards that offer comprehensive insights into various aspects of Spotify's musical ecosystem, including track popularity, streaming behavior, and audio attributes. 🖥️🔍
 
@@ -26,9 +43,13 @@ This project aims to provide detailed insights into Spotify data through interac
 
 - Provided actionable insights into track popularity dynamics, streaming trends across different time periods and geographical regions, and the impact of audio attributes such as tempo and acoustic profiles on user engagement. 💡🌐
 
+- Integrated SQL queries to perform additional analysis, including data aggregation, filtering, and joining, augmenting the insights gained from Tableau visualizations with deeper data exploration and manipulation capabilities. 📊🔍
+
 - Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, thereby enabling stakeholders in the music industry to gain valuable insights and make strategic decisions based on data-driven evidence. 🎵📊
 
 ---
+
+# Data Vizzes
 
 | **Analytical Dashboard** | **Preview** |**Description** |
 |--------------------------|-------------|----------------|
@@ -39,25 +60,62 @@ This project aims to provide detailed insights into Spotify data through interac
 
 ---
 
-### Data Source
+## SQL Analysis 
 
-The data used for this project is sourced from the "Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023". This dataset provides valuable insights into the most streamed songs on Spotify in 2023.
+### Data Exploration
 
-### Analytical Approach
+- Conducted exploratory data analysis using SQL queries to gain deeper insights into the Spotify dataset.
+- Analyzed track popularity dynamics, streaming trends, and audio attributes through SQL-based data manipulation and aggregation techniques.
 
-The project employs a combination of descriptive and exploratory data analysis techniques to uncover patterns and insights within the Spotify dataset. Various visualizations, including bar charts, scatter plots, and tables, are utilized to present findings in a clear and accessible manner.
+### Schema Diagram
 
-### Tableau Public Profile
 
-Explore more visualizations and projects on my [Tableau Public profile](https://public.tableau.com/app/profile/viraj.bhutada/vizzes). Gain deeper insights into data analysis and visualization techniques through interactive dashboards and storytelling.
+![Spotify_Schema](https://github.com/virajbhutada/Google-Stock-Price-Forecasting-LSTM/assets/143819712/d092be39-3bee-4574-803a-93e52ab5acc7)
 
-### Conclusion
-
-By leveraging Tableau's visualization capabilities, this project offers a comprehensive exploration of Spotify's musical ecosystem. Users can gain valuable insights into track popularity, streaming trends, and audio attributes, facilitating informed decision-making and strategic planning within the music industry.
+*The schema diagram provides a visual representation of the database structure, illustrating the relationships between different entities and attributes within the Spotify dataset.*
 
 ---
 
-## Connect with Me
+
+## Data Source
+
+The dataset utilized in this project originates from the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023. This dataset offers invaluable insights into the most streamed songs on Spotify during 2023.
+
+### Analytical Approach
+
+This project adopts a rigorous analytical approach combining descriptive and exploratory data analysis techniques, alongside SQL queries, to uncover intricate patterns and insights within the Spotify dataset. An array of visualization tools, including bar charts, scatter plots, and tables, are employed to present findings in a coherent and comprehensible manner.
+
+### Explore Further
+
+For more visualizations and projects, visit my [Tableau Public profile](https://public.tableau.com/app/profile/viraj.bhutada/vizzes). Discover deeper insights into data analysis and visualization techniques through interactive dashboards and engaging storytelling.
+
+---
+
+## Conclusion
+
+In conclusion, the Spotify Data Insights project has provided a comprehensive exploration of Spotify's musical ecosystem through the combined use of Tableau for visualization and SQL for analysis. Throughout this project, we have:
+
+- Conducted detailed analysis and visualization of Spotify's most streamed songs in 2023, offering valuable insights into track popularity dynamics, streaming trends, and audio attributes.
+- Leveraged Tableau's interactive dashboards to present complex data in a clear and accessible manner, facilitating easy interpretation and decision-making for stakeholders in the music industry.
+- Employed SQL queries to perform additional data exploration and manipulation, enhancing the depth of analysis and uncovering nuanced patterns within the Spotify dataset.
+- Contributed to advancing knowledge in the field of music analytics by applying rigorous analytical techniques to a real-world dataset, enabling stakeholders to make data-driven decisions and strategic planning.
+- Demonstrated proficiency in data analysis, visualization, and storytelling, showcasing the evolving dynamics of the music industry and highlighting opportunities for innovation and growth.
+
+---
+
+## Recommendations
+
+As we move forward, here are some recommendations for further exploration and public awareness:
+
+- Continuously update and expand the dataset to capture evolving trends and dynamics within the music industry, enabling stakeholders to stay informed and adapt to changing consumer preferences.
+- Explore collaborative opportunities with other data-driven platforms and industries to leverage synergies and uncover new insights that drive innovation and growth.
+- Engage with the broader community through knowledge sharing and collaboration, fostering a culture of transparency and openness that encourages collective learning and development.
+- Advocate for data-driven decision-making and evidence-based strategies within the music industry, promoting a culture of innovation and experimentation that drives sustainable growth and success.
+
+
+---
+
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/virajbhutada/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
@@ -65,12 +123,14 @@ By leveraging Tableau's visualization capabilities, this project offers a compre
 
 ---
 
-## Repository Navigation
+### Repository Navigation
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-brown.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau.git)
-[![Push](https://img.shields.io/badge/Push-Code-blue.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau)
-[![Pull](https://img.shields.io/badge/Pull-Request-lavender.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/pulls)
-[![Issues](https://img.shields.io/badge/Issues-Report-red.svg)](https://github.com/virajbhutada/Spotify-Data-Insights-Tableau/issues)
+[![Clone](https://img.shields.io/badge/Clone-Repository-brown.svg)](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL.git)
+[![Push](https://img.shields.io/badge/Push-Code-blue.svg)](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL)
+[![Pull](https://img.shields.io/badge/Pull-Request-lavender.svg)](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL)
+[![Issues](https://img.shields.io/badge/Issues-Open-red.svg)](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL/issues)
+
+
 
 ---
 
