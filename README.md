@@ -64,7 +64,7 @@ This project provides detailed insights into Spotify data through interactive vi
 
 ### Data Exploration
 
-- Conducted exploratory data analysis using SQL queries to gain deeper insights into the Spotify dataset.
+- Conducted exploratory data analysis using SQL queries to gain deeper insights into the [Spotify Dataset](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL/blob/main/sql/data/spotify_cleaned_dataset.xlsx).
 - Analyzed track popularity dynamics, streaming trends, and audio attributes through SQL-based data manipulation and aggregation techniques.
 
 ### Schema Diagram
@@ -79,7 +79,13 @@ This project provides detailed insights into Spotify data through interactive vi
 
 ## Data Source
 
-The dataset utilized in this project originates from the Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023. This dataset offers invaluable insights into the most streamed songs on Spotify during 2023.
+The dataset utilized in this project originates from the [Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023](https://github.com/virajbhutada/Spotify-Data-Analysis-with-Tableau-and-SQL/blob/main/data/Onyx%20Data%20DataDNA%20Dataset%20Challenge%20-%20Spotify%20Most%20Streamed%20Songs%202023%20Dataset%20-%20October%202023.xlsx). This dataset offers invaluable insights into the most streamed songs on Spotify during 2023.
+
+- **Key Dataset Information:**
+  - The dataset comprises 21 information-rich columns meticulously cleaned and primed for analysis, encompassing track metadata, streaming metrics, and audio attributes. This careful curation ensures accuracy and reliability, facilitating robust analysis and informed decision-making processes.
+  - Featuring approximately **181K** records, this dataset offers a comprehensive perspective of Spotify's musical landscape. It enables detailed examination of track popularity dynamics, streaming trends, and user preferences, empowering in-depth analysis for actionable insights.
+    
+---
 
 ### Analytical Approach
 
@@ -134,6 +140,6 @@ As we move forward, here are some recommendations for further exploration and pu
 
 ---
 
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
