@@ -123,7 +123,7 @@ As we move forward, here are some recommendations for further exploration and pu
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/virajbhutada/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 [![Spotify](https://img.shields.io/badge/Spotify-Profile-brightgreen?logo=spotify)](https://open.spotify.com/user/virajbhutada)
 
