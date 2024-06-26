@@ -1,8 +1,8 @@
 ![Screenshot 2024-06-11 173647](https://github.com/virajbhutada/Google-Stock-Price-Forecasting-LSTM/assets/143819712/a940742a-35b1-4b27-9687-92932abd6578)
 
-# Spotify Data Analysis 🎵📊
+# Spotify Data Analysis and Music Recommendation System 🎵📊
 
-Gains comprehensive analysis of Spotify data using Tableau, SQL, and Python, along with a machine learning-based music recommendation system. It provides deep insights into Spotify's musical landscape, visualized through Tableau, analyzed with SQL, and enhanced with a music recommendation model.
+Gains comprehensive analysis of Spotify data using **Machine-Learning, Python, SQL, and Tableau,** along with a machine learning-based music recommendation system. It provides deep insights into Spotify's musical landscape, visualized through Tableau, analyzed with SQL, and enhanced with a music recommendation model.
 
 ---
 
@@ -17,7 +17,7 @@ Gains comprehensive analysis of Spotify data using Tableau, SQL, and Python, alo
 - [ML and Python Analysis](#ml-and-python-analysis)
 - [EDA and Data Visualization](#eda-and-data-visualization)
 - [Key Insights](#key-insights)
-- [Building the Recommendation System](#steps-to-build-the-recommendation-system)
+- [Steps to Build the Recommendation System](#steps-to-build-the-recommendation-system)
   - [Installation](#installation)
   - [Usage](#usage)
 - [Data Source](#data-source)
@@ -117,17 +117,28 @@ This project involves in-depth exploration and visualization of Spotify's datase
 
 ## Key Insights
 
-| **Visualization**                                     | **Description**                                                                                                                                                  |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Top 10 Most Popular Songs](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/top_10_most_popular_songs.png) | Visualizes the most popular songs on Spotify based on their popularity score.                                                                                     |
-| ![Top 10 Least Popular Songs](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/top_10_least_popular_songs.png) | Displays the least popular songs, providing insight into tracks that have not gained significant popularity.                                                     |
-| ![Correlation Heatmap](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/correlation_heatmap.png) | Illustrates the correlation between different audio features and popularity, aiding in identifying relationships and dependencies.                                |
-| ![Loudness vs. Energy](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/loudness_vs_energy.png) | Examines how loudness and energy relate to each other, highlighting their influence on song characteristics.                                                    |
-| ![Popularity vs. Acousticness](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/popularity_vs_acousticness.png) | Analyzes the correlation between a song's popularity and its acousticness, providing insights into listener preferences.                                         |
-| ![Total Songs Since 1992](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/total_songs_since_1992.png) | Visualizes the growth in the number of songs added to Spotify over the years, highlighting trends in music production and streaming.                            |
-| ![Change in Duration](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/change_in_duration.png) | Shows how the average duration of songs has evolved over time, reflecting changes in music consumption and production trends.                                     |
-| ![Duration by Genre](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/duration_by_genre.png) | Compares the duration of songs across various genres, offering insights into genre-specific trends and listener preferences.                                       |
-| ![Top Genres by Popularity](https://github.com/yourusername/spotify-data-analysis-and-recommendation/blob/main/images/top_genres_by_popularity.png) | Highlights the most popular genres on Spotify, providing a snapshot of listener preferences based on genre popularity metrics.                                     |
+
+| Top 10 Most Popular Songs | Top Genres by Popularity |
+|---------------|-------------|
+| ![Screenshot 2024-06-26 131132](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/c3434b0d-ee7c-4cc1-959e-003a74126428) | ![Screenshot 2024-06-26 131222](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/8f7cb58d-e1d5-41b0-9429-cfe5d11d0c1d) |
+| Visualizes the top 10 most popular songs on Spotify based on their popularity score. | Highlights the most popular genres on Spotify, giving an overview of listener preferences based on genre popularity metrics. |
+
+| Correlation Heatmap | Loudness vs. Energy |
+|---------------------|---------------------|
+| ![Screenshot 2024-06-26 131141](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/630a1d61-5860-4a6c-9a4a-e4c75aacbd9e) | ![Screenshot 2024-06-26 131148](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/f338ee9a-6908-4941-9940-623753268960) |
+| Illustrates the correlation between different audio features and song popularity, aiding in identifying relationships. | Examines how loudness and energy relate to each other in songs, highlighting their influence on musical characteristics. |
+
+| Popularity vs. Acousticness | Total Songs Since 1992 |
+|-----------------------------|------------------------|
+| ![Screenshot 2024-06-26 131154](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/9ed423e3-a8a5-4362-a378-5709883c884d) | ![Screenshot 2024-06-26 131207](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/d302402a-1649-4875-b7ca-41420dff3ad7) |
+| Analyzes how a song's popularity correlates with its acousticness, providing insights into listener preferences. | Visualizes the growth in the number of songs added to Spotify since 1992, showing trends in music production and streaming. |
+
+| Change in Duration | Duration by Genre |
+|--------------------|-------------------|
+| ![Screenshot 2024-06-26 131200](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a836e927-a5b8-46ed-b906-34fcaff639ee) | ![Screenshot 2024-06-26 131216](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/c42ff4de-befd-40c7-94d3-48706323d1f9) |
+| Shows how the average duration of songs has changed over time, reflecting shifts in music consumption and production trends. | Compares the duration of songs across different genres, offering insights into genre-specific trends and listener preferences. |
+
+
 
 ---
 
