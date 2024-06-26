@@ -21,7 +21,7 @@ Gains comprehensive analysis of Spotify data using **Machine-Learning, Python, S
   - [Installation](#installation)
   - [Usage](#usage)
 - [Data Source](#data-source)
-- [Analytical Approach](#analytical-approach)
+- [Technologies Used](#technologies-used)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
   
@@ -280,21 +280,21 @@ For more visualizations and projects, visit my [Tableau Public profile](https://
 
 ---
 
-### Technologies Used
+## Technologies Used
 
-[![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)](https://www.python.org/) [![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-orange)](https://en.wikipedia.org/wiki/Statistics)
+[![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)](https://www.python.org/) [![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-AB274F)](https://en.wikipedia.org/wiki/Statistics)
   
 **Data Visualization Libraries**:
 
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-lightgrey)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Data%20Visualization-brightgreen)](https://seaborn.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-3C1414)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-1F77B4)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Data%20Visualization-006B3C)](https://seaborn.pydata.org/)
     
 **Machine Learning Libraries**:
   
-[![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-Machine%20Learning-orange)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-blue)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-blue)](https://keras.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-29ABE2)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-F1DDCF)](https://keras.io/)
     
 **Other Tools**:
   
-[![Spotipy](https://img.shields.io/badge/Spotipy-Python%20Library%20for%20Spotify-red)](https://spotipy.readthedocs.io/en/2.16.1/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Coding-green)](https://jupyter.org/)
+[![Spotipy](https://img.shields.io/badge/Spotipy-Python%20Library%20for%20Spotify-228B22)](https://spotipy.readthedocs.io/en/2.16.1/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Coding-FF9933)](https://jupyter.org/)
 
 ---
 
